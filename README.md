@@ -1,1 +1,1 @@
-# HR_Management
+# AWS-EC2-Server
